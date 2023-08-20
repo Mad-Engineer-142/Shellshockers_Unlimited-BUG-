@@ -2,6 +2,8 @@
 
 ![Image](assets/0.png)
 
+## Video - https://youtu.be/HCYUKjPhKxw?feature=shared
+
 ## First
 1. you should get your firebase key, like on screenshot below
 ![Image](assets/1.png)
